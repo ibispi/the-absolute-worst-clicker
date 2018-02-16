@@ -117,32 +117,32 @@ II Canvas elements:
   If you don't want any tooltips just do ui.addTooltip ( "" ) and let it go. Here are some mandatory functions for your tooltip-experience:*
 
 
-    1. ui.tooltip.font ( font )
+    * ui.tooltip.font ( font )
     *Sets the font of the tooltip.*
 
-    2. ui.tooltip.cursorOffset ( x, y )
+    * ui.tooltip.cursorOffset ( x, y )
     *Sets the offset of the tooltip window from the cursor*
 
-    3. ui.tooltip.maxWidth ( maxWidth )
+    * ui.tooltip.maxWidth ( maxWidth )
     *Sets the maximum width of the tooltip window.*
 
-    4. ui.tooltip.minSize ( minWidth, minHeight )
+    * ui.tooltip.minSize ( minWidth, minHeight )
     *Sets the minimum width and height of the tooltip window.*
 
-    5. ui.tooltip.colors ( backgroundColorTable, outlineColorTable, fontColorTable )
+    * ui.tooltip.colors ( backgroundColorTable, outlineColorTable, fontColorTable )
     *Sets the background color, outline color and the font color of the tooltip.
     Don't forget you can make it semi-transparent here. That's what all the cool kids do.*
 
-    6. ui.tooltip.outlineThickness ( thickness )
+    * ui.tooltip.outlineThickness ( thickness )
     *Sets the thickness of the tooltip window outline.*
 
-    7. ui.tooltip.enableOutline ()
+    * ui.tooltip.enableOutline ()
     *Enables the tooltip outline.*
 
-    8. ui.tooltip.disableOutline ()
+    * ui.tooltip.disableOutline ()
     *Disables the tooltip outline.*
 
-    9. ui.tooltip.textOffset ( x, y )
+    * ui.tooltip.textOffset ( x, y )
     *Sets the text offset of the tooltip from its window.*
 
 
