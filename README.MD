@@ -7,6 +7,8 @@
 theAbsoluteWorstClicker is a UI module made for [LÖVE](http://love2d.org) which purpose is to make the process of adding buttons to a game more efficient than it normally is.
 theAbsoluteWorstClicker acts similarly to love.graphics library in the sense that you set UI canvases upon which you draw buttons in an order and set various characteristics for these buttons.
 
+![demo](https://i.imgur.com/WxvRxz1.gif)
+
 ## What can theAbsoluteWorstClicker possibly offer? I thought it was the worst thing ever R.O.F.L.
 
 Do you judge a book by its cover? Do you judge a read-me flie by its typos?
