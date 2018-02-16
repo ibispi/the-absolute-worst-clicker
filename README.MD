@@ -17,7 +17,7 @@ theAbsoluteWorstClicker offers a lot less than it may seem at first. But you can
 
 *With this function you can create a new canvas and then use the function ui.setCanvas ( canvas ) to assign UI elements to it.*
 
-1. Canvas functions:
+I Canvas functions:
 
   0. ui.setCanvas ( canvas )
   *After this function is called, all the elements added will be added to the specified canvas.*
@@ -106,7 +106,7 @@ theAbsoluteWorstClicker offers a lot less than it may seem at first. But you can
   *If you're too lazy to click the buttons with the mouse, but want to click them via code.
   That saying that a good programmer is lazy really holds true!*
 
-2. Canvas elements:
+II Canvas elements:
 
   1. ui.addButton ( "buttonText", optionalPermaClick )
   *Adds a button. Optional permaclick can be true or false, if true, this means when this button is clicked, it's clicked permanently -
@@ -183,7 +183,7 @@ theAbsoluteWorstClicker offers a lot less than it may seem at first. But you can
   14. ui.addTextBox ( "variableName")
   *Adds a text box, which you can edit. Needs a keyboard handy.*
 
-3. Other:
+III Other:
 
   1. ui.setPotentialTableSources ( {"nameOfTheTableSourceVariable", "nameOfTheTableSourceVariable2", ...} )
   *In case your variables are part of a table you can add the table here. BUT - it has to be only one table that the variable is part of. No more than one.*
