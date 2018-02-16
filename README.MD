@@ -154,11 +154,7 @@ theAbsoluteWorstClicker offers a lot less than it may seem at first. But you can
 
   5. ui.addSlider.vertical ( alignment, width )
   *Add this if you believe that not all elements will fit on the screen.
-  Alignment can be left or right. Width can be whatever you desire, baby.
-
-    You have to do this too:
-    ui.setColorVerticalSlider[1-4] ( colorTableNormal, colorTableHover, colorTableClick )
-    to set the colors of the vertical slider.*
+  Alignment can be left or right. Width can be whatever you desire, baby. You have to do this too:* ui.setColorVerticalSlider[1-4] ( colorTableNormal, colorTableHover, colorTableClick ) *to set the colors of the vertical slider.*
 
   6. ui.addSlider.horizontal ( "variableName", minNumber, maxNumber )
   *Adds a horizontal slider with all its minimum and maximum numberness.*
