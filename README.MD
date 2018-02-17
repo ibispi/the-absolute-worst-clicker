@@ -209,7 +209,7 @@ theAbsoluteWorstClicker offers a lot less than it may seem at first. But you can
 
 Just type:
 
-require "theAbsoluteWorstClicker.lua"
+require "theAbsoluteWorstClicker"
 
 into your main.lua file, baby.
 
