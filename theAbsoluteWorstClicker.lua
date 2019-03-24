@@ -1032,7 +1032,7 @@ ui.updateMouseClick = function (canvasName, mouseX, mouseY)
     end
   end
 
-  if clickedOnNothing == true and ui.keyboardEnabled then
+  if clickedOnNothing == true and ui.keyboardEnabled and love.mouse.isDown(1) then
     ui.keyboardEnabled = false
     love.keyboard.setTextInput(false)
     ui.editingElement = 0
